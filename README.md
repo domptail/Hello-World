@@ -14,3 +14,4 @@ My current focus is thus developing my programming skills:
 - Data visualization: Excel, Power BI, Tableau (EdX and Coursera classes)
 - Programming languages: Python, R
 
+Please feel free to contact me on my LinkedIn profile!
