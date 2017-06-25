@@ -7,7 +7,7 @@ I am interested in data analytics / data science, particularly for 'development'
 
 This GitHub repository includes ongoing personal projects. The goal is to help me get hands-on experience and complement online classes.
 
-I have a solid mathematical background due to my engineering training, and good communication skills thanks to years of international consulting. 
+I have a solid mathematical background due to my engineering training, and good communication skills thanks to my international consulting experience. 
 
 My current focus is improving my programming skills, including:
 - Database querying: SQL 
